@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"budgetbuddy"},{"l":"budgetbuddy.bd"},{"l":"budgetbuddy.dao"},{"l":"budgetbuddy.dao.implementacao"},{"l":"budgetbuddy.entidades"},{"l":"budgetbuddy.gui"},{"l":"budgetbuddy.utilitarios"}];updateSearchResults();
